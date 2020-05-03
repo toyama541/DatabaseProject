@@ -20,10 +20,15 @@ The project will create databases to support an on-campus delivery food service 
 •	UNCC will start with 8 approved delivery personnel – the system is in test mode.  
 
 •	You can assume all individuals have been cleared and they can be included in the database.  
+
 •	All delivery personnel are students.
+
 •	An individual delivery is tied to one and only one person for the order. 
+
 •	There is a flat fee of $5 for each delivery.    
+
 •	Food providers or restaurants have to be approved in order to be included in the database.  
+
 ## ERD
 ![ERD](https://cdn.discordapp.com/attachments/697209041348329566/697281276914434098/number6.PNG)
 ## Data Dictionary
