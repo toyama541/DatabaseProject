@@ -4,10 +4,10 @@ Tokio Oyama
 The project will create databases to support an on-campus delivery food service website. The site will include multiple tables allowing for cross referencing of various data points. The data points include user profiles, Delivery Locations, Restaurant List, Menus and Eligibility Tables to help reference during services.
 ## Use Case
 ## Business Rules
-•	Create Tables to identify data points and variables needed to run the site
-•	Person Table identifying the type of person they are and defining attributes
-•	Identify Locations used for on campus delivery
-•	Provide a location description and ID number 
+•	Create Tables to identify data points and variables needed to run the site.
+•	Person Table identifying the type of person they are and defining attributes.
+•	Identify Locations used for on campus delivery.
+•	Provide a location description and ID number .
 •	Some examples are dorms, the student center, and approved classroom buildings.
 •	Additionally, a food delivery drop-off point is included (designated place for meeting or
   delivering food in the location – this can be a brief description).
