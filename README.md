@@ -3,6 +3,8 @@ Tokio Oyama
 ## Introduction
 The project will create databases to support an on-campus delivery food service website. The site will include multiple tables allowing for cross referencing of various data points. The data points include user profiles, Delivery Locations, Restaurant List, Menus and Eligibility Tables to help reference during services.
 ## Use Case
+![usecase](https://cdn.discordapp.com/attachments/697209041348329566/707340965920374875/Screen_Shot_2020-05-05_at_5.19.20_PM.png)
+
 ## Business Rules
 •	Create Tables to identify data points and variables needed to run the site.
 
@@ -30,10 +32,10 @@ The project will create databases to support an on-campus delivery food service 
 •	Food providers or restaurants have to be approved in order to be included in the database.  
 
 ## ERD
-![ERD](https://discordapp.com/channels/697209041348329563/697209041348329566/707363468549816381)
+![ERD](https://cdn.discordapp.com/attachments/697209041348329566/707363468378112012/real1.PNG)
 ## Data Dictionary
-![DataDic](https://discordapp.com/channels/697209041348329563/697209041348329566/707363466461184043)
-![DataDic](https://discordapp.com/channels/697209041348329563/697209041348329566/707363464615690371)
+![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363466226171944/real2.PNG)
+![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363464636792863/real3.PNG)
 ## MySQL Queries (three)
 ## Trigger
 ## Stored Procedure
