@@ -37,6 +37,9 @@ The project will create databases to support an on-campus delivery food service 
 ![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363466226171944/real2.PNG)
 ![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363464636792863/real3.PNG)
 ## MySQL Queries (three)
+![query](https://cdn.discordapp.com/attachments/697209041348329566/707374724396613632/real4.PNG)
+![query](https://cdn.discordapp.com/attachments/697209041348329566/707375044036263967/real5.PNG)
+![query](https://cdn.discordapp.com/attachments/697209041348329566/707374724396613632/real4.PNG)
 ## Trigger
 ## Stored Procedure
 ## Web/App Implementation (Optional) or Description of Future Work
