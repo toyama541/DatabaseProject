@@ -1,5 +1,5 @@
 # DatabaseProject
-Tokio Oyama
+Tokio Oyama  
 Josue Sanchez
 ## Introduction
 The project will create databases to support an on-campus delivery food service website. The site will include multiple tables allowing for cross referencing of various data points. The data points include user profiles, Delivery Locations, Restaurant List, Menus and Eligibility Tables to help reference during services.
