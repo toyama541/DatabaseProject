@@ -30,10 +30,10 @@ The project will create databases to support an on-campus delivery food service 
 •	Food providers or restaurants have to be approved in order to be included in the database.  
 
 ## ERD
-![ERD](https://cdn.discordapp.com/attachments/697209041348329566/706631722753589298/3001.PNG)
+![ERD](https://discordapp.com/channels/697209041348329563/697209041348329566/707363468549816381)
 ## Data Dictionary
-![ERD](https://cdn.discordapp.com/attachments/697209041348329566/706631777883521035/1.PNG)
-![ERD](https://cdn.discordapp.com/attachments/697209041348329566/706649524583530526/3.PNG)
+![DataDic](https://discordapp.com/channels/697209041348329563/697209041348329566/707363466461184043)
+![DataDic](https://discordapp.com/channels/697209041348329563/697209041348329566/707363464615690371)
 ## MySQL Queries (three)
 ## Trigger
 ## Stored Procedure
