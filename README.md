@@ -37,7 +37,7 @@ The project will create databases to support an on-campus delivery food service 
 ## Data Dictionary
 ![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363466226171944/real2.PNG)
 ![DataDic](https://cdn.discordapp.com/attachments/697209041348329566/707363464636792863/real3.PNG)
-## MySQL Queries (three)
+## Advanced Views
 ![query](https://cdn.discordapp.com/attachments/697209041348329566/707374724396613632/real4.PNG)
 ![query](https://cdn.discordapp.com/attachments/697209041348329566/707380032196182077/real6.PNG)
 ## Trigger
