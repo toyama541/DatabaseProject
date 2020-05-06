@@ -41,6 +41,7 @@ The project will create databases to support an on-campus delivery food service 
 ![query](https://cdn.discordapp.com/attachments/697209041348329566/707374724396613632/real4.PNG)
 ![query](https://cdn.discordapp.com/attachments/697209041348329566/707380032196182077/real6.PNG)
 ## Trigger
+![query](https://cdn.discordapp.com/attachments/697209041348329566/707391332188160060/real8.PNG)
 ## Stored Procedure
 ![sProced](https://cdn.discordapp.com/attachments/697209041348329566/707384759021600778/real7.PNG)
 ## Web/App Implementation (Optional) or Description of Future Work
